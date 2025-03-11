@@ -32,4 +32,3 @@ Desarrollar una aplicación que funcione como un cajero automático interactivo,
 
 ## Consejos Útiles
 - Para llegar a la solución de este ejercicio deberás utilizar la POO (Programación Orientada a Objetos), explorarás las diversas soluciones que podemos aplicar gracias a esta a problemas tan cotidianos como manejar un cajero automatico.
-- Si encuentras problemas a la hora de abordar este problema, te recomendamos revisar el Módulo 6. Y recuerda, ¡no tengas miedo a probar cosas e inclusive añadir funcionalidades, el límite es tu mente!
