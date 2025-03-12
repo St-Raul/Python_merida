@@ -15,7 +15,7 @@ Cada ejercicio debe ser entregado siguiendo la siguiente estructura dentro de la
 ```
 
 ### Reglas de Nomenclatura
-- `ejercicio_x_nombre`: Carpeta con el nombre del ejercicio, donde `x` representa el número del ejercicio y `nombre` una breve descripción.
+- `ejercicio_x_nombre`: Carpeta con el nombre del ejercicio, donde `x` representa el número del ejercicio.
 - Dentro de esta carpeta se incluirán todos los archivos necesarios para ejecutar el ejercicio.
 - Si el ejercicio requiere librerías externas, se debe incluir un archivo `requirements.txt` con la lista de librerías y sus versiones utilizadas.
 
